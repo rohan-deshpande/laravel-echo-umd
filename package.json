@@ -1,7 +1,7 @@
 {
   "name": "laravel-echo-umd",
   "description": "Laravel Echo UMD package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/rohan-deshpande/laravel-echo-umd",
   "repository": "https://github.com/rohan-deshpande/laravel-echo-umd",
   "author": "Rohan Deshpande <rohan@creativelifeform.com> (http://rohandeshpande.com/)",

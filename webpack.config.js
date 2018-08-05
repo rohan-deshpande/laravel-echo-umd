@@ -2,11 +2,11 @@
 
 const path = require('path');
 
-let libraryName = 'echo';
+let libraryName = 'Echo';
 
 let plugins = [], outputFile;
 
-outputFile = libraryName + '.js';
+outputFile = libraryName.toLowerCase() + '.js';
 
 const config = {
   entry: __dirname + '/src/index.js',
